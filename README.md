@@ -1,5 +1,4 @@
 Who hasn't pirated  Minecraft at some point and stumbled upon this mythical launcher?
-![launcher](https://github.com/user-attachments/assets/c766ecbc-7846-4798-b335-4cefc0eba8dc)
 
 The launcher does not download the files because the page it accesses no longer exists.
 
