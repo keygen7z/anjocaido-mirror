@@ -6,9 +6,9 @@ As the page that it is trying to access no longer exists, the launcher will not 
 
 This repository contains the original files from https://s3.amazonaws.com/MinecraftDownload/, before it was taken down.
 
-So, I have edited a string in the launcher and changed it to the URL of this repository with the necessary files. It works!
+So, I have edited a single string in the launcher and changed it to the URL of this repository with the necessary files: https://raw.githubusercontent.com/keygen7z/anjocaido-mirror/main/MinecraftDownload/
 
-I also managed to fix the automatic download of resources (basically sounds) by editing a string in minecraft.jar. 
+It works! I also managed to fix the automatic download of resources (basically sounds) by editing a string in minecraft.jar. 
 The problem is that even if all the resources are downloaded, the game still has no sound.
 
 If I manage to fix it, I will update it here.
