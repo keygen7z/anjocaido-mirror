@@ -1,4 +1,4 @@
-Have you ever tried playing Minecraft and stumbled upon this mythical launcher?
+Have you ever tried playing Minecraft and stumbled upon this mythical launcher? You could play Minecraft 1.5.2 with it.
 
 <img src="https://github.com/user-attachments/assets/835739af-bc46-48e4-a8b1-1c1193c257e1" />
 
